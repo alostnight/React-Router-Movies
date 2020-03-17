@@ -53,3 +53,4 @@ function MovieDetails({ movie }) {
 }
 
 export default MovieList;
+
